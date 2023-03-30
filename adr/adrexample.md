@@ -2,7 +2,6 @@
 
 ## Context and Problem Statement
 
-[Describe the context and problem statement, e.g., in free form using two to three sentences. You may want to articulate the problem in form of a question.]
 Our upcoming new application FancyWebAppName is in the preliminary stages of developments. We require a programming framework that is extensible and will
 enable our developers to delivery high quality modern software in a typical cloud environment.
 
@@ -31,9 +30,9 @@ Stuck within the .NET ecosystem.
 
 ## Pros and Cons of the Options <!-- optional -->
 
-### [option 1]
+### ASP.NET
 
-[example | description | pointer to more information | …] <!-- optional -->
+Microsoft's Web Application Framework using C#
 
 * Good, because our developers are familiar with C#.
 * Good, because Razor pages are quick and easy to use and make for prototyping.
@@ -42,7 +41,7 @@ Stuck within the .NET ecosystem.
 
 ### Node.js
 
-[example | description | pointer to more information | …] <!-- optional -->
+Javascript Framework
 
 * Good, because there is a multitude of sources of information avaiable
 * Good, because it is lightweight
